@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_view_meetings"
+        android:title="View Meetings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_request_meeting"
+        android:title="Request Meeting"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

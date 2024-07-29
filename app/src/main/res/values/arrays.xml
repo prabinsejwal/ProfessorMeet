@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="time_slots_array">
+        <item>10:00 AM - 11:00 AM</item>
+        <item>11:00 AM - 12:00 PM</item>
+        <item>01:00 PM - 02:00 PM</item>
+        <item>02:00 PM - 03:00 PM</item>
+    </string-array>
+</resources>
